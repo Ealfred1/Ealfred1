@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **more cutting edge technologies**
 
- 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Django, React... or anything [here](https://github.com/Ealfred1/Ealfred1/issues)**
 
  👯 I’m looking to collaborate on some web and mobile projects.
     
