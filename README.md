@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eric+Alfred!;" />
 </h1>
 
-<h3 align="center">Full Stack Developer | Problem Solver | Tech Innovator</h3>
+<h3 align="center">Full Stack Developer [ Web, Mobile, Backend]</h3>
 
 <p align="center">
 With over 5 years of professional experience, I craft high-performance web and mobile solutions using modern technologies.  
