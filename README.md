@@ -6,14 +6,13 @@
 
 <h3>Senior Full Stack Engineer | Mobile & Web Systems Specialist</h3>
 
-<p>
-<b>5+ years of experience</b> building production-grade solutions.  
+**5+ years of experience** building production-grade solutions.  
 Specialized in **Clean Architecture**, **High-Performance UI/UX**, and **Scalable Backend Systems** across diverse industries.
-</p>
 
 ---
 
 ### Industry Experience
+
 **Web3** • **AI Automation** • **E-commerce** • **Mobility Tech** • **FinTech** • **Entertainment** • **Real-time Systems**
 
 ---
